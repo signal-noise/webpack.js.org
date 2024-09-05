@@ -160,12 +160,12 @@
     "react-document-title": "^2.0.3",
     "react-dom": "^16.8.6",
     "react-g-analytics": "0.4.2",
-    "react-hot-loader": "^4.0.0-beta.12",
-    "react-markdown": "4.2.2",
+    "react-hot-loader": "^4.13.1",
+    "react-markdown": "6.0.0",
     "react-router-dom": "^4.2.2",
     "react-tiny-popover": "3.4.2",
     "react-visibility-sensor": "^5.0.2",
-    "webpack-pwa-manifest": "^4.0.0",
+    "webpack-pwa-manifest": "^4.1.1",
     "webpack.vote": "^0.1.2",
     "whatwg-fetch": "^2.0.3"
   }
