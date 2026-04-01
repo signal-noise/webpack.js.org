@@ -160,7 +160,7 @@
     "react-document-title": "^2.0.3",
     "react-dom": "^16.8.6",
     "react-g-analytics": "0.4.2",
-    "react-hot-loader": "^4.0.0-beta.12",
+    "react-hot-loader": "^4.12.6",
     "react-markdown": "4.2.2",
     "react-router-dom": "^4.2.2",
     "react-tiny-popover": "3.4.2",
